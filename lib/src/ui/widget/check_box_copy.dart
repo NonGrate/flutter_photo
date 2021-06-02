@@ -3,6 +3,7 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart' hide Checkbox;
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
+import 'package:photo/src/ui/widget/render_togglable.dart';
 
 /// A material design checkbox.
 ///
